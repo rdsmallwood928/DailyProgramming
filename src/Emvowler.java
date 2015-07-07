@@ -55,7 +55,7 @@ public class Emvowler{
     }
 
     public class Trie {
-        Node
+        //Node
 
         public class Node{
             public String data;
